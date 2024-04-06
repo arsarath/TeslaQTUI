@@ -4,5 +4,16 @@
         <file>ui/BottomBar/BottomBar.qml</file>
         <file>ui/RightScreen/RightScreen.qml</file>
         <file>ui/LeftScreen/LeftScreen.qml</file>
+        <file>ui/assets/carRender.jpg</file>
+        <file>ui/assets/sedan-car-front.png</file>
+        <file>ui/assets/padlock.png</file>
+        <file>ui/assets/padlock-unlock.png</file>
+        <file>ui/RightScreen/NavigationSearchBox.qml</file>
+        <file>ui/assets/search.png</file>
+        <file>ui/BottomBar/HVACComponent.qml</file>
+        <file>ui/assets/audio1.png</file>
+        <file>ui/assets/audio2.png</file>
+        <file>ui/assets/volume-mute.png</file>
+        <file>ui/BottomBar/VolumeControlComponent.qml</file>
     </qresource>
 </RCC>
